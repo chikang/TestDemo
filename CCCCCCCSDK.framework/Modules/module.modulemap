@@ -1,0 +1,6 @@
+framework module CCCCCCCSDK {
+  umbrella header "CCCCCCCSDK.h"
+
+  export *
+  module * { export * }
+}
